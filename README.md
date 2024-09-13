@@ -1,2 +1,2 @@
-# bits-project
-A repo to work on my bits project
+# AmastyExtended_StoreCredit
+ APIs for amasty store credit module
